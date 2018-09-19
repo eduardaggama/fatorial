@@ -16,4 +16,4 @@ for (int i = 0; i < palavra.length(); i++) {
         vogais++;
     }
 }
-System.out.println("The number of vowels in " + palavra + " is " + vogais);}}
+System.out.println("o numero de vogais em " + palavra + " é " + vogais);}}
